@@ -26,26 +26,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> <h3>Creation of Ticket</h3>
+<img src="https://github.com/user-attachments/assets/969827df-7d6f-4d1f-8c6a-32793353a5df" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  A tickets life begins when an end user has a problem. From there, they are able to submit a question or issue to the public support center while submitting their contact information, the general topic for the ticket, and a brief description of the issue. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><h3>Assigning Ticket</h3>
+<img src="https://github.com/user-attachments/assets/dfb1d83c-91d6-4164-8b6e-bd04e6ca2cdc" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  For this issue, the end user sent in a ticket regarding the online banking system being down. From their we are able to assign the ticket to the correct team, set it's SLA or severity level, and change the topic to something more suitable to the ticket. In this case we changed the original topic "Report a Problem" to "Report a Problem/Buisness Critical Outage" for better organization. 
 </p>
+<br />
+
+<p> <h3>Working Ticket</h3>
+<img src="https://github.com/user-attachments/assets/1885ae29-54e8-4c76-a987-c519d9515dc1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  From here, whoever the ticket was assigned to; in this scenerio Jane; is able to communicate with the end user in order to resolve the issue. Posting replies in the osTicket system will automatically send the end user an email with the same information. In this example, Jane suspects that the faultiness of the banking system has to do with the recent updates. By giving the user a potential issue and ensuring that she will get back to them, it leaves more time for the issue to be resolved.
+</p>
+<br />
+
+
+<p> <h3>Close Ticket</h3>
+<img src="https://github.com/user-attachments/assets/951ad527-f15b-4cd1-9818-dc245d9ac692" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  In this scenerio, Jane determined that the issue was in fact the recent update. She ensured the user that the updates were rolled back and further work will be done to properly resolve the issue. This will provide a sense of comfort in the user knowing that the system will now be working and is in the process of becoming better for their convenience. 
+</p>
+<p>Now the ticket is able to be resolved, and the next set of tickets can be worked through</p>
+<img src="https://github.com/user-attachments/assets/03fc6a48-5e1c-4cc8-8c23-9e0837a6ed74" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
